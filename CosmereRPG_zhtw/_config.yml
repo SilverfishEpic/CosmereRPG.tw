@@ -22,9 +22,9 @@ title: 寰宇 RPG 中文站
 email: silver4fish@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   寰宇 RPG 的中文站點
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+domain: silverfishepic.github.io
+baseurl: https://silverfishepic.github.io/CosmereRPG.tw/ # the subpath of your site, e.g. /blog
+url: /CosmereRPG_zhtw/ # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  SilverfishEpic
 
 # Build settings
