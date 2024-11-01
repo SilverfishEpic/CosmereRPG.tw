@@ -21,7 +21,7 @@
 title: 寰宇 RPG 中文站
 email: silver4fish@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  寰宇 RPG 的中文站點
+  寰宇 RPG 非官方中文站點
 domain: silverfishepic.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://silverfishepic.github.io # the base hostname & protocol for your site, e.g. http://example.com
